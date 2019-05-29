@@ -1,10 +1,10 @@
 # yoguRt
 
-yoguRt is a R Package for eduicating the general public on yogurt facts. This package contains one function, `yogurt()`, with one purpose: To return an interesting yogurt fact. Why? Well, why not?
-
-Improvements and new features will likely not be added, please [contact me](mailto:shanasabri@gmail.com) with any questions or concerns.
+yoguRt is a R package for educating the general public on yogurt facts. This dumb package contains one function, `yogurt()`, with one purpose: To return an interesting yogurt fact. Why? Well, why not? The idea of this package came out of conversation with [@udincer]( https://github.com/udincer ) which we thought would be funny to implement. 
 
 Yogurt facts are currently sourced from [here](https://mobile-cuisine.com/did-you-know/yogurt-fun-facts/). 
+
+Improvements and new features will likely not be added, please [contact me](mailto:shanasabri@gmail.com) with any questions or concerns.
 
 ## Installation
 
@@ -27,8 +27,6 @@ yogurt()
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
